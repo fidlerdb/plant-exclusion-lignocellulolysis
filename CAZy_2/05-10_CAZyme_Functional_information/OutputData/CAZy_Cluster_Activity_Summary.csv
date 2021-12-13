@@ -1,0 +1,117 @@
+Cluster,nFamilies,Percentage,Substrate
+"3,6-anhydro-D-galactose-CazC0",5,40,Cellulose
+"3,6-anhydro-D-galactose-CazC0",5,60,Hemicellulose
+"3,6-anhydro-D-galactose-CazC0",5,0,Lignin
+"3,6-anhydro-D-galactose-CazC0",5,80,Oligosaccharides
+"3,6-anhydro-D-galactose-CazC1",1,0,Cellulose
+"3,6-anhydro-D-galactose-CazC1",1,0,Hemicellulose
+"3,6-anhydro-D-galactose-CazC1",1,0,Lignin
+"3,6-anhydro-D-galactose-CazC1",1,100,Oligosaccharides
+4-hydroxybenzoic acid-CazC1,5,20,Cellulose
+4-hydroxybenzoic acid-CazC1,5,40,Hemicellulose
+4-hydroxybenzoic acid-CazC1,5,0,Lignin
+4-hydroxybenzoic acid-CazC1,5,80,Oligosaccharides
+4-hydroxybenzoic acid-CazC2,1,0,Cellulose
+4-hydroxybenzoic acid-CazC2,1,100,Hemicellulose
+4-hydroxybenzoic acid-CazC2,1,0,Lignin
+4-hydroxybenzoic acid-CazC2,1,0,Oligosaccharides
+4-hydroxybenzoic acid-CazC3,3,66.67,Cellulose
+4-hydroxybenzoic acid-CazC3,3,100,Hemicellulose
+4-hydroxybenzoic acid-CazC3,3,0,Lignin
+4-hydroxybenzoic acid-CazC3,3,66.67,Oligosaccharides
+4-hydroxybenzoic acid-CazC4,9,77.78,Cellulose
+4-hydroxybenzoic acid-CazC4,9,88.89,Hemicellulose
+4-hydroxybenzoic acid-CazC4,9,22.22,Lignin
+4-hydroxybenzoic acid-CazC4,9,88.89,Oligosaccharides
+4-hydroxybenzoic acid-CazC5,2,50,Cellulose
+4-hydroxybenzoic acid-CazC5,2,50,Hemicellulose
+4-hydroxybenzoic acid-CazC5,2,0,Lignin
+4-hydroxybenzoic acid-CazC5,2,100,Oligosaccharides
+4-hydroxybenzoic acid-CazC6,3,0,Cellulose
+4-hydroxybenzoic acid-CazC6,3,0,Hemicellulose
+4-hydroxybenzoic acid-CazC6,3,0,Lignin
+4-hydroxybenzoic acid-CazC6,3,100,Oligosaccharides
+4-hydroxybenzoic acid-CazC7,4,0,Cellulose
+4-hydroxybenzoic acid-CazC7,4,25,Hemicellulose
+4-hydroxybenzoic acid-CazC7,4,25,Lignin
+4-hydroxybenzoic acid-CazC7,4,50,Oligosaccharides
+benzoic acid-CazC1,1,100,Cellulose
+benzoic acid-CazC1,1,100,Hemicellulose
+benzoic acid-CazC1,1,0,Lignin
+benzoic acid-CazC1,1,100,Oligosaccharides
+benzoic acid-CazC2,8,50,Cellulose
+benzoic acid-CazC2,8,87.5,Hemicellulose
+benzoic acid-CazC2,8,12.5,Lignin
+benzoic acid-CazC2,8,100,Oligosaccharides
+fucose-CazC1,15,33.33,Cellulose
+fucose-CazC1,15,46.67,Hemicellulose
+fucose-CazC1,15,0,Lignin
+fucose-CazC1,15,73.33,Oligosaccharides
+fucose-CazC2,22,22.73,Cellulose
+fucose-CazC2,22,54.55,Hemicellulose
+fucose-CazC2,22,0,Lignin
+fucose-CazC2,22,77.27,Oligosaccharides
+fucose-CazC3,7,0,Cellulose
+fucose-CazC3,7,14.29,Hemicellulose
+fucose-CazC3,7,14.29,Lignin
+fucose-CazC3,7,71.43,Oligosaccharides
+fucose-CazC4,2,0,Cellulose
+fucose-CazC4,2,0,Hemicellulose
+fucose-CazC4,2,0,Lignin
+fucose-CazC4,2,0,Oligosaccharides
+glucose-CazC1,1,0,Cellulose
+glucose-CazC1,1,100,Hemicellulose
+glucose-CazC1,1,0,Lignin
+glucose-CazC1,1,100,Oligosaccharides
+glucose-CazC2,18,66.67,Cellulose
+glucose-CazC2,18,88.89,Hemicellulose
+glucose-CazC2,18,11.11,Lignin
+glucose-CazC2,18,88.89,Oligosaccharides
+glucose-CazC3,3,66.67,Cellulose
+glucose-CazC3,3,100,Hemicellulose
+glucose-CazC3,3,0,Lignin
+glucose-CazC3,3,100,Oligosaccharides
+glucose-CazC4,3,33.33,Cellulose
+glucose-CazC4,3,66.67,Hemicellulose
+glucose-CazC4,3,0,Lignin
+glucose-CazC4,3,100,Oligosaccharides
+glucose-CazC5,8,37.5,Cellulose
+glucose-CazC5,8,50,Hemicellulose
+glucose-CazC5,8,0,Lignin
+glucose-CazC5,8,75,Oligosaccharides
+vanillic acid-CazC1,20,60,Cellulose
+vanillic acid-CazC1,20,70,Hemicellulose
+vanillic acid-CazC1,20,25,Lignin
+vanillic acid-CazC1,20,75,Oligosaccharides
+vanillic acid-CazC2,7,28.57,Cellulose
+vanillic acid-CazC2,7,71.43,Hemicellulose
+vanillic acid-CazC2,7,0,Lignin
+vanillic acid-CazC2,7,85.71,Oligosaccharides
+vanillic acid-CazC3,5,0,Cellulose
+vanillic acid-CazC3,5,20,Hemicellulose
+vanillic acid-CazC3,5,20,Lignin
+vanillic acid-CazC3,5,60,Oligosaccharides
+vanillic acid-CazC4,2,0,Cellulose
+vanillic acid-CazC4,2,0,Hemicellulose
+vanillic acid-CazC4,2,0,Lignin
+vanillic acid-CazC4,2,50,Oligosaccharides
+xylose-CazC1,24,37.5,Cellulose
+xylose-CazC1,24,54.17,Hemicellulose
+xylose-CazC1,24,4.17,Lignin
+xylose-CazC1,24,83.33,Oligosaccharides
+xylose-CazC2,7,14.29,Cellulose
+xylose-CazC2,7,57.14,Hemicellulose
+xylose-CazC2,7,0,Lignin
+xylose-CazC2,7,85.71,Oligosaccharides
+xylose-CazC3,8,12.5,Cellulose
+xylose-CazC3,8,37.5,Hemicellulose
+xylose-CazC3,8,0,Lignin
+xylose-CazC3,8,62.5,Oligosaccharides
+xylose-CazC4,2,0,Cellulose
+xylose-CazC4,2,0,Hemicellulose
+xylose-CazC4,2,0,Lignin
+xylose-CazC4,2,50,Oligosaccharides
+xylose-CazC5,8,0,Cellulose
+xylose-CazC5,8,12.5,Hemicellulose
+xylose-CazC5,8,12.5,Lignin
+xylose-CazC5,8,75,Oligosaccharides

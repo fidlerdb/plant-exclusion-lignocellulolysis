@@ -1,0 +1,205 @@
+Cluster,CAZyme,Cellulose,Hemicellulose,Lignin,Oligosaccharides
+fucose-CazC2,AA12,1,0,0,0
+xylose-CazC3,AA12,1,0,0,0
+vanillic acid-CazC1,AA5_2,1,0,1,1
+xylose-CazC1,AA5_2|CBM32,1,1,1,1
+fucose-CazC3,AA6,0,0,1,0
+xylose-CazC5,AA6,0,0,1,0
+vanillic acid-CazC3,AA6,0,0,1,0
+4-hydroxybenzoic acid-CazC7,AA6,0,0,1,0
+benzoic acid-CazC2,CBM11|GH3,1,1,1,1
+fucose-CazC2,CBM13,0,1,0,0
+xylose-CazC1,CBM13,0,1,0,0
+4-hydroxybenzoic acid-CazC2,CBM13,0,1,0,0
+fucose-CazC1,CBM2,1,1,0,0
+xylose-CazC1,CBM2,1,1,0,0
+vanillic acid-CazC1,CBM2,1,1,0,0
+4-hydroxybenzoic acid-CazC3,CBM2,1,1,0,0
+glucose-CazC2,CBM22,0,1,0,0
+fucose-CazC2,CBM32,0,1,0,1
+xylose-CazC2,CBM32,0,1,0,1
+vanillic acid-CazC1,CBM35|GH65,1,1,0,1
+benzoic acid-CazC2,CBM38,0,0,0,1
+fucose-CazC1,CBM48|CBM68|GH13_14,1,1,0,1
+fucose-CazC1,CBM48|CBM68|GH13_14,1,1,0,1
+xylose-CazC1,CBM48|CBM68|GH13_14,1,1,0,1
+xylose-CazC1,CBM48|CBM68|GH13_14,1,1,0,1
+glucose-CazC2,CBM4|GH9,1,1,0,1
+glucose-CazC2,CBM4|GH9,1,1,0,1
+xylose-CazC1,CBM4|GH9,1,1,0,1
+xylose-CazC1,CBM4|GH9,1,1,0,1
+fucose-CazC2,CBM50,0,0,0,0
+xylose-CazC3,CBM50,0,0,0,0
+vanillic acid-CazC1,CBM51|GH35,1,1,1,1
+vanillic acid-CazC1,CBM51|GH35,1,1,1,1
+4-hydroxybenzoic acid-CazC4,CBM51|GH35,1,1,1,1
+4-hydroxybenzoic acid-CazC4,CBM51|GH35,1,1,1,1
+"3,6-anhydro-D-galactose-CazC1",CBM57,0,0,0,1
+4-hydroxybenzoic acid-CazC1,CBM57,0,0,0,1
+glucose-CazC2,CBM57|GH2,1,1,0,1
+glucose-CazC2,CBM61,0,1,0,0
+vanillic acid-CazC1,CBM62,0,1,0,0
+fucose-CazC1,CBM67|GH78,1,1,0,1
+fucose-CazC1,CBM67|GH78,1,1,0,1
+xylose-CazC1,CBM67|GH78,1,1,0,1
+xylose-CazC1,CBM67|GH78,1,1,0,1
+fucose-CazC1,CBM68,0,1,0,1
+xylose-CazC1,CBM68,0,1,0,1
+vanillic acid-CazC1,CBM68,0,1,0,1
+4-hydroxybenzoic acid-CazC4,CBM68,0,1,0,1
+glucose-CazC2,CBM6|GH2,1,1,0,1
+glucose-CazC2,CBM6|GH2,1,1,0,1
+glucose-CazC2,CBM6|GH2,1,1,0,1
+vanillic acid-CazC1,CBM6|GH2,1,1,0,1
+vanillic acid-CazC1,CBM6|GH2,1,1,0,1
+vanillic acid-CazC1,CBM6|GH2,1,1,0,1
+4-hydroxybenzoic acid-CazC4,CBM6|GH2,1,1,0,1
+4-hydroxybenzoic acid-CazC4,CBM6|GH2,1,1,0,1
+4-hydroxybenzoic acid-CazC4,CBM6|GH2,1,1,0,1
+fucose-CazC2,CE4|GH18|GT2,0,1,0,1
+fucose-CazC2,CE4|GH18|GT2,0,1,0,1
+xylose-CazC3,CE4|GH18|GT2,0,1,0,1
+xylose-CazC3,CE4|GH18|GT2,0,1,0,1
+fucose-CazC4,GH0,0,0,0,0
+xylose-CazC4,GH0,0,0,0,0
+vanillic acid-CazC4,GH0,0,0,0,0
+glucose-CazC5,GH105,0,0,0,1
+glucose-CazC2,GH10|3.2.1.8,1,1,0,1
+glucose-CazC4,GH113,0,0,0,1
+glucose-CazC5,GH114,0,0,0,0
+vanillic acid-CazC2,GH115,0,1,0,0
+fucose-CazC2,GH128,0,1,0,1
+xylose-CazC1,GH128,0,1,0,1
+fucose-CazC1,GH129,0,0,0,1
+vanillic acid-CazC3,GH13,0,0,0,1
+glucose-CazC1,GH130,0,1,0,1
+fucose-CazC3,GH130,0,1,0,1
+xylose-CazC5,GH130,0,1,0,1
+vanillic acid-CazC3,GH130,0,1,0,1
+4-hydroxybenzoic acid-CazC7,GH130,0,1,0,1
+fucose-CazC3,GH133,0,0,0,1
+xylose-CazC5,GH133,0,0,0,1
+fucose-CazC1,GH135,0,0,0,1
+xylose-CazC1,GH135,0,0,0,1
+glucose-CazC2,GH136,0,0,0,1
+fucose-CazC3,GH13_10,0,0,0,1
+xylose-CazC5,GH13_10,0,0,0,1
+xylose-CazC4,GH13_11,0,0,0,1
+vanillic acid-CazC4,GH13_11,0,0,0,1
+4-hydroxybenzoic acid-CazC7,GH13_11,0,0,0,1
+glucose-CazC2,GH13_17,0,0,0,1
+xylose-CazC1,GH13_24,0,0,0,1
+xylose-CazC5,GH13_3,0,0,0,1
+fucose-CazC2,GH13_33,0,0,0,1
+xylose-CazC1,GH13_33,0,0,0,1
+fucose-CazC1,GH13_40,0,0,0,1
+xylose-CazC1,GH13_40,0,0,0,1
+vanillic acid-CazC1,GH13_40,0,0,0,1
+fucose-CazC1,GH13_6,0,0,0,1
+xylose-CazC1,GH13_6,0,0,0,1
+xylose-CazC1,GH13_7,0,0,0,1
+vanillic acid-CazC1,GH13_7,0,0,0,1
+4-hydroxybenzoic acid-CazC1,GH13_7,0,0,0,1
+fucose-CazC1,GH14,0,0,0,0
+vanillic acid-CazC1,GH14,0,0,0,0
+4-hydroxybenzoic acid-CazC4,GH14,0,0,0,0
+glucose-CazC2,GH141,0,1,0,1
+benzoic acid-CazC2,GH141,0,1,0,1
+fucose-CazC2,GH144,0,0,0,1
+vanillic acid-CazC2,GH144,0,0,0,1
+4-hydroxybenzoic acid-CazC6,GH144,0,0,0,1
+vanillic acid-CazC1,GH147,0,1,0,1
+benzoic acid-CazC2,GH147,0,1,0,1
+fucose-CazC1,GH148,0,0,0,0
+xylose-CazC1,GH148,0,0,0,0
+vanillic acid-CazC1,GH148,0,0,0,0
+4-hydroxybenzoic acid-CazC1,GH148,0,0,0,0
+fucose-CazC1,GH153,0,0,0,0
+xylose-CazC1,GH153,0,0,0,0
+fucose-CazC2,GH17,0,1,0,1
+xylose-CazC3,GH17,0,1,0,1
+fucose-CazC2,GH18,0,0,0,0
+xylose-CazC2,GH18,0,0,0,0
+fucose-CazC2,GH19,0,0,0,0
+xylose-CazC3,GH19,0,0,0,0
+"3,6-anhydro-D-galactose-CazC0",GH19,0,0,0,0
+4-hydroxybenzoic acid-CazC5,GH20,0,0,0,1
+fucose-CazC4,GH23,0,0,0,0
+glucose-CazC5,GH25,0,0,0,0
+vanillic acid-CazC2,GH26,1,1,0,1
+benzoic acid-CazC1,GH26,1,1,0,1
+fucose-CazC2,GH27,0,1,0,1
+xylose-CazC2,GH27,0,1,0,1
+fucose-CazC2,GH30,1,1,0,1
+xylose-CazC2,GH30,1,1,0,1
+glucose-CazC4,GH30_2,1,1,0,1
+benzoic acid-CazC2,GH30_2,1,1,0,1
+glucose-CazC3,GH30_5,1,1,0,1
+4-hydroxybenzoic acid-CazC4,GH30_7,1,1,0,1
+xylose-CazC2,GH32,0,0,0,1
+vanillic acid-CazC2,GH32,0,0,0,1
+4-hydroxybenzoic acid-CazC6,GH32,0,0,0,1
+fucose-CazC2,GH37,0,0,0,1
+xylose-CazC3,GH37,0,0,0,1
+glucose-CazC2,GH3|3.2.1.21,1,1,1,1
+glucose-CazC2,GH3|3.2.1.21,1,1,1,1
+vanillic acid-CazC1,GH3|3.2.1.21,1,1,1,1
+vanillic acid-CazC1,GH3|3.2.1.21,1,1,1,1
+glucose-CazC4,GH43,0,1,0,1
+benzoic acid-CazC2,GH43,0,1,0,1
+glucose-CazC5,GH43_12,0,1,0,1
+glucose-CazC2,GH43_37,0,1,0,1
+fucose-CazC2,GH43_5,0,1,0,1
+xylose-CazC2,GH43_5,0,1,0,1
+vanillic acid-CazC2,GH43_5,0,1,0,1
+4-hydroxybenzoic acid-CazC1,GH43_5,0,1,0,1
+glucose-CazC3,GH43_9,0,1,0,1
+glucose-CazC5,GH44,1,1,0,1
+glucose-CazC2,GH45,1,1,0,1
+fucose-CazC2,GH47,0,0,0,1
+4-hydroxybenzoic acid-CazC3,GH5,1,1,0,1
+fucose-CazC1,GH50,0,0,0,1
+xylose-CazC1,GH50,0,0,0,1
+vanillic acid-CazC2,GH53,0,1,0,1
+fucose-CazC3,GH57,0,0,0,1
+xylose-CazC5,GH57,0,0,0,1
+fucose-CazC1,GH59,0,1,0,1
+xylose-CazC1,GH59,0,1,0,1
+4-hydroxybenzoic acid-CazC3,GH59,0,1,0,1
+"3,6-anhydro-D-galactose-CazC0",GH5_1,1,1,0,1
+fucose-CazC2,GH5_13,1,1,0,1
+"3,6-anhydro-D-galactose-CazC0",GH5_22,1,1,0,1
+glucose-CazC3,GH5_25,1,1,0,1
+fucose-CazC2,GH5_25,1,1,0,1
+4-hydroxybenzoic acid-CazC1,GH5_25,1,1,0,1
+glucose-CazC2,GH5_26,1,1,0,1
+benzoic acid-CazC2,GH5_26,1,1,0,1
+vanillic acid-CazC1,GH5_27,1,1,0,1
+benzoic acid-CazC2,GH5_27,1,1,0,1
+glucose-CazC2,GH5_4,1,1,0,1
+xylose-CazC1,GH5_44,1,1,0,1
+vanillic acid-CazC1,GH5_44,1,1,0,1
+4-hydroxybenzoic acid-CazC4,GH5_44,1,1,0,1
+fucose-CazC2,GH5_46,1,1,0,1
+glucose-CazC5,GH6,1,1,0,1
+"3,6-anhydro-D-galactose-CazC0",GH62,0,1,0,1
+glucose-CazC5,GH63,0,0,0,1
+fucose-CazC2,GH63,0,0,0,1
+xylose-CazC2,GH63,0,0,0,1
+"3,6-anhydro-D-galactose-CazC0",GH63,0,0,0,1
+fucose-CazC3,GH65,0,0,0,1
+xylose-CazC5,GH65,0,0,0,1
+vanillic acid-CazC3,GH65,0,0,0,1
+fucose-CazC2,GH73,0,0,0,1
+xylose-CazC3,GH73,0,0,0,1
+4-hydroxybenzoic acid-CazC6,GH73,0,0,0,1
+xylose-CazC1,GH76,0,0,0,1
+fucose-CazC3,GH77,0,0,0,0
+xylose-CazC5,GH77,0,0,0,0
+vanillic acid-CazC3,GH77,0,0,0,0
+4-hydroxybenzoic acid-CazC7,GH77,0,0,0,0
+glucose-CazC5,GH8,1,1,0,1
+xylose-CazC1,GH87,0,0,0,1
+vanillic acid-CazC1,GH89,0,0,0,0
+vanillic acid-CazC2,GH9,1,1,0,1
+4-hydroxybenzoic acid-CazC5,GH9,1,1,0,1

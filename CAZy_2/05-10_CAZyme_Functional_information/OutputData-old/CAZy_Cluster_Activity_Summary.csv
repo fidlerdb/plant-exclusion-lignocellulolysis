@@ -1,0 +1,42 @@
+Cluster,nFamilies,Cellulose,Hemicellulose,Lignin,Oligosaccharides
+benzoic acid-CazC1,1,100,0,0,100
+benzoic acid-CazC2,8,50,87.5,0,100
+fucose-CazC1,15,20,53.33,0,60
+fucose-CazC2,7,28.57,71.43,0,85.71
+fucose-CazC3,8,12.5,25,12.5,62.5
+fucose-CazC4,8,12.5,62.5,0,87.5
+fucose-CazC5,3,33.33,66.67,0,66.67
+fucose-CazC6,7,0,14.29,14.29,71.43
+fucose-CazC7,2,0,0,0,0
+galactose-CazC_1,1,0,0,0,0
+galactose-CazC_2,1,0,0,0,0
+galactose-CazC_3,1,0,0,0,0
+galactose-CazC_5,1,0,0,0,0
+galactose-CazC_6,1,0,100,0,100
+galactose-CazC_7,1,0,0,0,0
+galactose-CazC_8,1,0,100,0,100
+galactose-CazC1,1,0,0,0,100
+glucose-CazC1,2,50,100,0,100
+glucose-CazC2,17,41.18,76.47,0,88.24
+glucose-CazC3,8,37.5,62.5,0,75
+hydroxybenzoic acid-CazC1,4,0,25,25,50
+hydroxybenzoic acid-CazC2,3,66.67,100,0,100
+hydroxybenzoic acid-CazC3,1,0,100,0,0
+hydroxybenzoic acid-CazC4,3,66.67,100,0,66.67
+hydroxybenzoic acid-CazC5,5,20,40,0,80
+hydroxybenzoic acid-CazC6,2,50,50,0,100
+hydroxybenzoic acid-CazC7,3,0,0,0,100
+vanillic acid-CazC1,11,36.36,54.55,9.09,63.64
+vanillic acid-CazC2,6,16.67,50,0,83.33
+vanillic acid-CazC3,6,16.67,33.33,16.67,66.67
+vanillic acid-CazC4,2,0,0,0,50
+xylose-CazC1,1,0,0,0,100
+xylose-CazC10,9,0,11.11,11.11,77.78
+xylose-CazC2,6,50,83.33,0,66.67
+xylose-CazC3,6,0,16.67,0,66.67
+xylose-CazC4,6,16.67,50,0,66.67
+xylose-CazC5,7,14.29,28.57,0,57.14
+xylose-CazC6,2,0,0,0,50
+xylose-CazC7,4,0,50,0,75
+xylose-CazC8,8,12.5,62.5,0,87.5
+xylose-CazC9,1,0,0,0,0
